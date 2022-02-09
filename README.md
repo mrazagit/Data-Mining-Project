@@ -1,6 +1,9 @@
 # Data-Mining-Project
 CS-626 Data Warehousing and Data Mining Final Project
 
+#Poject Title
+Customer segmentation using k-means and agglomerative clustering algorithms
+
 # Group members:
 
 Maham Rashid 
